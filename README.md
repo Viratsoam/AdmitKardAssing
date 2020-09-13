@@ -3,7 +3,7 @@ Mobile Number OTP verification | Experss.js | Messagebird Api
 
 # -Mobile Number OTP Verification | AdmitKard
 
-I have used espress.js to complete this task, with the help of Messagebird Restfull API.
+I have used express.js to complete this task, with the help of Messagebird Restfull API.
 it give us 10 free credits to use it's services.
 
 # - How to use this app
