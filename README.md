@@ -34,3 +34,6 @@ http://localhost:8000
 
 I make this task for Fullstack Developer-1, i have used handlebars(due to complete it fast) as view engine there is lot more like ejs which we can use, to make this application we can use react
 as well.
+
+# Note
+I have not used .gitignore to hide anything, so that anyone can use this Restfull api without any previous knowledge of development, anyone can use it directly.
