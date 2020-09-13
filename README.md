@@ -1,4 +1,4 @@
-# AdmitKardAssing
+# AdmitKard Fullstack Developer-1 Assignment
 Mobile Number OTP verification | Experss.js | Messagebird Api
 
 # -Mobile Number OTP Verification | AdmitKard
