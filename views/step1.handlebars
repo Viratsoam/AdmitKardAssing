@@ -1,0 +1,12 @@
+{{#if error}}
+<p>{{error}}</p>
+
+{{/if}}
+<p>Please Enter your Mobile Number in International Format <strong>Ex:- +918888888888</strong> to recieve a verification code.</p>
+
+<form action="/step2" method="POST">
+
+    <input type="tel" name="number">
+    <input type="submit" value="Send Code">
+
+</form>
